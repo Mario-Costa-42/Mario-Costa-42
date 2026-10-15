@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Costa</h1>
-<h3 align="center">Full-Stack Developer | React, JavaScript, C#, Python |</h3>
+<h3 align="center">Full-Stack Developer | Python, JavaScript, C#, Linux |</h3>
 
 <p align="left">
 </p>
